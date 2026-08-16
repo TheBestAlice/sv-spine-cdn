@@ -94,6 +94,7 @@
 更新文件后 jsDelivr 有缓存，急用时改文件名（如 _v2）最稳。
 
 ## Voices（语音）
-语音已按语言整理在 voices/ 下（Japanese(JP) / English(US)，每个语音包一个文件夹，WAV 可直接播放）。
+语音已按语言整理在 voices/ 下（Japanese(JP) / English(US)，每个语音包一个文件夹，MP3 128kbps 可直接播放）。
 语音目录结构说明见 voices/README.txt。
+
 
