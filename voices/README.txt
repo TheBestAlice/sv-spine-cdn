@@ -8,5 +8,4 @@ ShadowverseWB 主战者语音（MP3 版）
 每个语音包一个文件夹，文件名与原始编号一致（如 0140388e.mp3）。
 
 用途：可直接用 GitHub/jsDelivr 托管后作为状态栏语音热链；
-也可自行转回 WAV 或改码率。原始 WAV 仍保留在：
-  C:\Users\龙傲天\Downloads\@types\wizard2-work\voice-out
+也可自行转回 WAV 或改码率。
